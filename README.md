@@ -1,3 +1,3 @@
-# scannedImgViewer
+# 1913 甘字典
 
-[Soat-bêng 說明](https://thak.taigi.info/scannedImgViewer/soatbeng/)
+[Soat-bêng 說明](https://thak.taigi.info/1913KamJitian/soatbeng/)
